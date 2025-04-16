@@ -2,6 +2,8 @@
 
 The official Windows installer for [Rocketgraph](https://rocketgraph.com).
 
+Looking for alternative install methods? Check out [other install options here](https://github.com/Rocketgraphai/install).
+
 ## Download
 
 📦 [Download the latest version](https://github.com/rocketgraphai/rocketgraph-setup/releases/latest)
@@ -11,11 +13,20 @@ The official Windows installer for [Rocketgraph](https://rocketgraph.com).
 - Virtualization enabled in BIOS/UEFI
 - Internet connection (for updates)
 
-## Installation
+##  Installation
 
 1. Download the `.exe` file from [Releases](https://github.com/rocketgraphai/rocketgraph-setup/releases).
 2. Run the installer.
 3. Follow the prompts to complete setup.
+
+## What This Installer Does
+
+- Installs the **latest version of Rocketgraph** automatically using Docker
+- Sets up the required **Docker Compose configuration**
+- Installs **Docker Desktop** (if not already installed)
+- Enables necessary Windows features:
+  - **Windows Subsystem for Linux (WSL 2)**
+  - **Virtual Machine Platform**
 
 ## Troubleshooting
 
