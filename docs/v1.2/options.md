@@ -28,7 +28,10 @@ On this page, you can customize how Rocketgraph is installed and configured.
   Launches the Rocketgraph web UI automatically after installation completes.
 
 - 🔐 **License File**  
-  Location of the license file to use. Leave blank if not applicable.
+  Specify the path to your Rocketgraph license file.
+  If you have a trial license, you can add it here.<br>
+  Use the **Browse** button to locate the file on your system.<br>
+  If you don't have a license yet, you can leave this field blank.
 
 ---
 
