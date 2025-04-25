@@ -17,7 +17,7 @@ Looking for alternative install methods? Check out [other install options here](
 
 1. Download the `.exe` file from [Releases](https://github.com/rocketgraphai/rocketgraph-setup/releases).
 2. Run the installer.
-3. Follow the prompts to complete setup.
+3. Follow the prompts to complete setup. [(See the installer guide)](docs/v1.3/welcome.md)
 
 ## What This Installer Does
 
