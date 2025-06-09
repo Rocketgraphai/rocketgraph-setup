@@ -48,7 +48,7 @@ Some antivirus programs may flag the installer because it is not yet code-signed
 
 ### ⚠️ macOS Warning
 
-macOS might consider the installer as not trusted because it is not yet code-signed.  The installer is safe as has not been tampered with.
+macOS might consider the installer as not trusted because it is not yet code-signed.  The installer is safe and has not been tampered with.
 
 ---
 
