@@ -46,10 +46,6 @@ Looking for alternative install methods? Check out [other install options here](
 
 Some antivirus programs may flag the installer because it is not yet code-signed. This is a common false positive for unsigned software. Rest assured, the installer is safe and has not been tampered with.
 
-### ⚠️ macOS Warning
-
-macOS might consider the installer as not trusted because it is not yet code-signed.  The installer is safe and has not been tampered with.
-
 ---
 
 ### 🔄 Reboot Required for WSL 2 or VM Platform
